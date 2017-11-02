@@ -12,5 +12,9 @@ package models;
  * tanggal: 8 September 2017
  */
 public class Calculator {
+	public static void main(String[] args){
+		//hei kelas ini nganggur
+		//bagaiamana kalau gue tambahin main method?
+	}
     
 }
